@@ -19,7 +19,7 @@ Building scalable web applications, decentralized systems, and AI-powered soluti
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vi5hnuraj&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vi5hnuraj&show_icons=true&theme=radical&hide_border=true" />
 </div>
 
 <br>
